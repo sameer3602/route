@@ -2,6 +2,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: antiquewhite;
 }
 .active{
   color: rgb(192, 48, 48);
